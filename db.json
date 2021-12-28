@@ -2,9 +2,7 @@
   "info": {
     "available": {
       "users": 10,
-      "addresses": 10,
-      "posts": 100,
-      "comments": 500
+      "addresses": 10
     }
   },
   "users": [
